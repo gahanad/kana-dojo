@@ -1,11 +1,13 @@
 name: Create GitHub Release
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
     paths:
       - features/PatchNotes/patchNotesData.json
+      - .github/scripts/create-release.js
 
 permissions:
   contents: write
