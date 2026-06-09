@@ -70,5 +70,12 @@
     "season": "Summer",
     "kigo": "Summer rain (samidare)",
     "notes": "A dynamic river image with strong seasonal presence."
+  },
+  {
+    "id": 1,
+    "japanese": "古池や\n蛙飛び込む\n水の音",
+    "romaji": "Furuike ya\nKawazu tobikomu\nMizu no oto",
+    "translation": "Um velho lago,\nUm sapo pula dentro,\nO som da água.",
+    "author": "Matsuo Bashō"
   }
 ]
